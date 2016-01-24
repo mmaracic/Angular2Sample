@@ -2,4 +2,4 @@
 
 Anqular2 Sample
 
-Initially based on Angular's % Min Quickstart sample: https://angular.io/docs/ts/latest/quickstart.html#
+Initially based on Angular's 5 Min Quickstart sample: https://angular.io/docs/ts/latest/quickstart.html#
